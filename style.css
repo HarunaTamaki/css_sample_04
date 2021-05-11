@@ -1,0 +1,43 @@
+body {
+    background-color: #b0c4de;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #cce6ff;
+}
+
+header {
+    padding: 40px;
+    height: 120px;
+    background-image: url("images/sora.jpeg");
+    /* background-image: url("images/sample.jpeg"); */
+    background-size: cover;
+    background-position:bottom;
+}
+h1{
+  font-weight: lighter;
+  font-size: 38px;
+}
+
+nav {
+    font-size: 18px;
+    padding: 8px 40px;
+    background-color: #fffaf0;
+    color: silver;
+}
+
+article {
+    font-size: 15px;
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    font-size: 15px;
+    padding: 40px;
+    height: 40px;
+    background-color : #add8e6;
+    color: black;
+}
